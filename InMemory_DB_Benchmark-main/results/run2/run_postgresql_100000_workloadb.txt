@@ -1,0 +1,33 @@
+Adding shard node URL: jdbc:postgresql://localhost:5432/ycsb_db
+Using shards: 1, batchSize:-1, fetchSize: -1
+[OVERALL], RunTime(ms), 843
+[OVERALL], Throughput(ops/sec), 1186.2396204033214
+[TOTAL_GCS_G1_Young_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Young_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Young_Generation], Time(%), 0.0
+[TOTAL_GCS_G1_Old_Generation], Count, 0
+[TOTAL_GC_TIME_G1_Old_Generation], Time(ms), 0
+[TOTAL_GC_TIME_%_G1_Old_Generation], Time(%), 0.0
+[TOTAL_GCs], Count, 0
+[TOTAL_GC_TIME], Time(ms), 0
+[TOTAL_GC_TIME_%], Time(%), 0.0
+[READ], Operations, 935
+[READ], AverageLatency(us), 276.72192513368987
+[READ], MinLatency(us), 96
+[READ], MaxLatency(us), 22575
+[READ], 95thPercentileLatency(us), 463
+[READ], 99thPercentileLatency(us), 606
+[READ], Return=OK, 935
+[CLEANUP], Operations, 1
+[CLEANUP], AverageLatency(us), 903.0
+[CLEANUP], MinLatency(us), 903
+[CLEANUP], MaxLatency(us), 903
+[CLEANUP], 95thPercentileLatency(us), 903
+[CLEANUP], 99thPercentileLatency(us), 903
+[UPDATE], Operations, 65
+[UPDATE], AverageLatency(us), 2810.123076923077
+[UPDATE], MinLatency(us), 2238
+[UPDATE], MaxLatency(us), 11399
+[UPDATE], 95thPercentileLatency(us), 3169
+[UPDATE], 99thPercentileLatency(us), 3435
+[UPDATE], Return=OK, 65
