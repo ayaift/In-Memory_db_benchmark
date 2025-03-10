@@ -2,7 +2,7 @@
 
 ## Course
 - **Course:** INFO-H415
-- **Year:** MA2
+- **Year:** MA1
 
 ## Description
 
