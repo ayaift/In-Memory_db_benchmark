@@ -1,4 +1,4 @@
-# Redis vs Memcached Performance Evaluation
+# In-Memory databases:Redis vs Memcached Performance Evaluation
 
 ## Overview
 This study aims to evaluate and compare the performance of two popular in-memory databases, **Redis** and **Memcached**. By conducting two benchmarks under different conditions, we highlight the strengths and weaknesses of these databases and offer recommendations based on the results. The focus of this project is on evaluating the performance of Redis and Memcached, particularly in the context of handling high-traffic websites and supporting analytical dashboards.
